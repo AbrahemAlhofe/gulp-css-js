@@ -1,0 +1,14 @@
+body {
+  color : #997
+}
+
+/* start style of test file */
+
+  $color : #090;
+
+  #navbar {
+    background-color : #999;
+    color : $color
+  }
+
+/* end style of test file */
